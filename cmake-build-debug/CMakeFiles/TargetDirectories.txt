@@ -1,0 +1,3 @@
+/Users/michaelcoopman1/Desktop/myProjects/Find PI/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/michaelcoopman1/Desktop/myProjects/Find PI/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/michaelcoopman1/Desktop/myProjects/Find PI/cmake-build-debug/CMakeFiles/Find_PI.dir
